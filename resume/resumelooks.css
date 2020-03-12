@@ -1,0 +1,72 @@
+#info
+{
+    background-color: white;
+    border: solid 8px darkred;
+    padding: 2em;
+}
+#mainCon
+{
+    padding-top: 80px;
+}
+
+body
+{
+    background-color: darkgray;
+    margin: 50px 100px;
+}
+
+h4
+{
+    font-weight: bold;
+}
+
+.navbar-toggler
+{
+    font-size: 16px;
+    color: white;
+}
+.bg-dark
+{
+    background-color: lightslategrey !important;
+}
+
+#logo-title
+{
+    background-color: rgb(33, 37, 41);
+    box-sizing: border-box;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 14px 16px;
+    color: white;
+    line-height: 24px;
+}
+
+#menubtn
+{
+    color: white;
+    background-color: #333;
+}
+
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#nav1, #nav2, #nav3, #nav4{
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: white;
+}
+
+li a:hover {
+    background-color: lightgrey;
+}
